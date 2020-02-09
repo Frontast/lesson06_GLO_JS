@@ -24,7 +24,7 @@ let game = function(min, max) {
     };
 
     let end = function() {
-        return alert('Игра закончена');
+        return alert('Игра закончена!');
     };
 
     let attempt = function() {
